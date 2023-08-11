@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding:.9em ;
+    color: blue;
+    border-radius: .5em;
+    border: 1em;
+   
+    background-color: rgb(231, 245, 30);
+}
+
+nav a{
+    text-decoration: none;
+    display: block;
+    color: blue;
+    background-color: chocolate ;
+}
